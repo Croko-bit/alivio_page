@@ -12,11 +12,13 @@
     align-items: start;
     max-width: 420px;
 }
+
 .hero__title {
     font-size: 65px;
     font-weight: 700;
     color: var(--co-green);
 }
+
 .hero__desc {
     margin: 25px 0 50px;
     color: var(--co-black);
